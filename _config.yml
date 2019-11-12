@@ -58,8 +58,8 @@ plugins:
 - jekyll-seo-tag
 - jekyll-sitemap
 description: Cloud4est education site
-baseurl: 
-url: https://education.cloud4est.com
+baseurl:
+url: https://cloud4est.github.io/site_education
 tiles-source: posts
 tiles-count: 3
 logo: "/assets/images/CD4ST_logo.svg"
